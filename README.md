@@ -3,7 +3,7 @@
 
 # Latest Padavan firmware for Redmi AC2100 (RM2100)
 
-Daily build of the latest Padavan firmware with the minimum feature set for the **Xiaomi Mi AC2100 (R2100)**
+Daily build of the latest Padavan firmware with the minimum feature set for the **Redmi AC2100 (RM2100)**
 
 ![grafik](https://user-images.githubusercontent.com/67478561/116359547-33a6ca80-a7ff-11eb-8158-67341a4f01b5.png)
 
