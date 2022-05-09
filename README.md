@@ -1,7 +1,7 @@
 [![Build OpenWrt](https://github.com/minax007/XIAOMI_MI_AC2100_R2100_Padavan/actions/workflows/CI.yml/badge.svg)](https://github.com/minax007/XIAOMI_MI_AC2100_R2100_Padavan/actions/workflows/CI.yml)
 [![release](https://img.shields.io/github/v/release/minax007/XIAOMI_MI_AC2100_R2100_Padavan.svg)](https://github.com/minax007/XIAOMI_MI_AC2100_R2100_Padavan/releases)
 
-# Latest Padavan firmware for Xiaomi Mi AC2100 (R2100)
+# Latest Padavan firmware for Redmi AC2100 (RM2100)
 
 Daily build of the latest Padavan firmware with the minimum feature set for the **Xiaomi Mi AC2100 (R2100)**
 
