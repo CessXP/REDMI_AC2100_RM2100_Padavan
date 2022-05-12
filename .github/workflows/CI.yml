@@ -10,14 +10,14 @@ on:
   workflow_dispatch:
   
 env:
-  src_git: https://github.com/hanwckf/rt-n56u.git
+  src_git: git@gitlab.com:dm38/padavan-ng.git
   build_dir: /opt/rt-n56u  
   images_dir: /opt/images
   ENABLED_CFG: |
     CONFIG_FIRMWARE_INCLUDE_LANG_UK
-    CONFIG_FIRMWARE_INCLUDE_QOS
-    CONFIG_FIRMWARE_INCLUDE_LANG_ES
   DISABLED_CFG: |
+    CONFIG_FIRMWARE_INCLUDE_LANG_ES
+    CONFIG_FIRMWARE_INCLUDE_QOS
     CONFIG_FIRMWARE_INCLUDE_IPSET
     CONFIG_FIRMWARE_CPU_900MHZ
     CONFIG_FIRMWARE_CPU_SLEEP
